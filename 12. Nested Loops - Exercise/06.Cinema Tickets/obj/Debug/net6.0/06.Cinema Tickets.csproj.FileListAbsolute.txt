@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net6.0\06.Cinema Tickets.exe
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net6.0\06.Cinema Tickets.deps.json
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net6.0\06.Cinema Tickets.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net6.0\06.Cinema Tickets.dll
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net6.0\06.Cinema Tickets.pdb
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.dll
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\refint\06.Cinema Tickets.dll
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.pdb
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\06.Cinema Tickets.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C#\C# Basics\12. Nested Loops - Exercise\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net6.0\ref\06.Cinema Tickets.dll
